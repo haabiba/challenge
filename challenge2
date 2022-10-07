@@ -1,0 +1,7 @@
+# Start Writing Here
+SUBROUTINE firstname()
+OUTPUT 'Enter your name'
+input name
+    return name
+ENDSUBROUTINE
+OUTPUT firstname()

@@ -1,0 +1,9 @@
+# Start Writing Here
+SUBROUTINE multipliedadd()
+
+input a
+input b
+return ("a+b= {}\n a*b= {}\n".format(a+b, a*b))
+
+ENDSUBROUTINE
+OUTPUT multipliedadd()

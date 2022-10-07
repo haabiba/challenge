@@ -1,0 +1,9 @@
+OUTPUT ("enter your fname")
+input fname
+OUTPUT ("enter your sname")
+input sname
+
+
+
+OUTPUT fname
+OUTPUT fname

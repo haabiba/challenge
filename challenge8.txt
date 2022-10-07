@@ -1,0 +1,10 @@
+# Start Writing Here
+SUBROUTINE calculatedtoutal()
+    input minutes
+    input text
+    tm ← minutes * 0.1
+    tt ← text * 0.05
+    total ← tm + tt + 10
+    return("total= {}\n ".format(total))
+ENDSUBROUTINE
+OUTPUT calculatedtoutal()

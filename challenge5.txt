@@ -1,0 +1,8 @@
+# Start Writing Here
+SUBROUTINE somme()
+
+input a
+input b
+    return a + b
+ENDSUBROUTINE
+OUTPUT somme()

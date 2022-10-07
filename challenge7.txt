@@ -1,0 +1,9 @@
+# Start Writing Here
+SUBROUTINE multipliedadd()
+
+input distance 
+input Time
+return ("Speed= {}\n ".format(distance/Time))
+
+ENDSUBROUTINE
+OUTPUT multipliedadd()

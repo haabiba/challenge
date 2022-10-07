@@ -1,0 +1,12 @@
+SUBROUTINE fsname()
+
+input fname
+input sname
+
+    return (fname +" \n "+sname)
+    
+
+
+ENDSUBROUTINE
+
+OUTPUT fsname()

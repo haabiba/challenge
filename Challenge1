@@ -1,0 +1,22 @@
+
+OUTPUT 'Enter your name'
+input name
+OUTPUT 'Enter your age'
+input age
+OUTPUT 'Enter your favorite color'
+input color
+ print("Name: {}\nAge: {}\ncolor: {}".format(name, age, color))
+   
+
+
+----------------------------------------------
+
+# Start Writing Here
+SUBROUTINE follwing()
+    name = "habiba "
+    age= " 20 "
+    coleur="red"
+    
+    return name + age + coleur
+ENDSUBROUTINE
+OUTPUT follwing()
